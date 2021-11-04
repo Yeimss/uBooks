@@ -69,7 +69,7 @@
                     </form>
                 </div>
                 <div class="col-0 col-md-5 d-flex flex-column justify-content-center">
-                    <img src="../img/libros.png" class="img-fluid">
+                    <img src="<?=base_url('public/img/libros.png')?>" class="img-fluid">
                 </div>
             </div>
         </section>
