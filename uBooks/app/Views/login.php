@@ -86,7 +86,7 @@
 			</div>
 
 			<div class="col-12 col-md-4">
-				<h1 class="fw-bold fuente"><span><i class="fa fa-book"></i></span>Digital Imagin Books</h1>
+				<h1 class="fw-bold fuente"><span><i class="fa fa-book"></i></span>UBooks</h1>
 				<br>
 				<i class="fab fa-facebook fa-3x"></i>
 				<i class="fab fa-instagram fa-3x"></i>

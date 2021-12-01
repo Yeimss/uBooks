@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Digital Imagin Books</title>
+	<title>UBooks</title>
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Gochi+Hand&display=swap" rel="stylesheet">
@@ -80,9 +80,9 @@
 		<div class="container-fluid">
 			<div class="row d-flex justify-content-center mt-4">
 				<div class="col-12 col-md-6">
-					<h3 class="text-center fw-bold text-center fuente2">Libreria Digital Imagin Books</h3>
+					<h3 class="text-center fw-bold text-center fuente2">Libreria UBooks</h3>
 					<p class="text-center fuente2">
-              			La librería Digital Imagin Books, se une a la campaña de "DONANDO UN LIBRO". Esta desea que cada persona pueda acceder de manera gratuita  un libro de su interés y que los libros que están recibiendo polvo y olvido sean donados.
+              			La librería UBooks, se une a la campaña de "DONANDO UN LIBRO". Esta desea que cada persona pueda acceder de manera gratuita  un libro de su interés y que los libros que están recibiendo polvo y olvido sean donados.
             		</p>
 				</div>
 			</div>
@@ -123,7 +123,7 @@
 				</div>
 				<div class="col-12 col-md-6 align-self-center">
 
-					<h2 class="fuente2 fw-bold">Digital Imagin Books</h2>
+					<h2 class="fuente2 fw-bold">UBooks</h2>
 					<p class="fuente2">
 						Somos una librería especializada en la educación lectora, desde 1996, en llevar desde el primer libro hasta enamorar con todo un género literario; Somos desde la imaginación de un niño hasta el recuerdo de un viejo anhelado en libros, librería con enfasis social. Nuestros socios van desde grandes academicos hasta entusiastas de una mejor educación y las donaciones de nuestros simpatizantes permiten que nuestra labor sea sostenible y preservan nuestra libertad de acción. Contamos con varios puntos de ubicación de nuestras librerías en Medellín, Bogotá y la ciudad de Cali.
 						<br>
@@ -157,7 +157,7 @@
 			</div>
 
 			<div class="col-12 col-md-4">
-				<h1 class="fw-bold fuente"><span><i class="fa fa-book"></i></span>Digital Imagin Books</h1>
+				<h1 class="fw-bold fuente"><span><i class="fa fa-book"></i></span>UBooks</h1>
 				<br>
 				<i class="fab fa-facebook fa-3x"></i>
 				<i class="fab fa-instagram fa-3x"></i>
