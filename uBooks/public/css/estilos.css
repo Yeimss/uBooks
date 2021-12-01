@@ -1,0 +1,21 @@
+.fondoPrincipal{
+    background-color: #a40047;
+}
+.borderButton{
+    border: #a40047 solid 2px;
+    border-radius: 8px;
+    background-color: transparent;
+    width: 100%;
+    height: 40px;
+}
+.bordecinho{
+    border: #a40047 solid 2px;
+    border-radius: 8px;
+    background-color: rgba(174, 0, 71, 0.1);
+}
+.fondoDos{
+    background-color: rgba(164, 0, 71, 0.2);
+}
+.borde_top{
+    border-top: #a40047 solid 2px;
+}
